@@ -33,3 +33,175 @@ java.io.IOException: Bad file descriptor
 [00:05:27] [Server thread/WARN]: benben moved too quickly! 262.0206041489782,-6.0,495.8403988403163
 [14:25:13] [Server thread/INFO]: benben lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
 [14:25:13] [Server thread/INFO]: benben left the game
+[16:28:05] [Server thread/INFO]: Starting minecraft server version 1.11.2
+[16:28:05] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[16:28:05] [Server thread/INFO]: Loading properties
+[16:28:05] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Bad file descriptor
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.7.0_67]
+	at java.io.FileInputStream.read(FileInputStream.java:272) ~[?:1.7.0_67]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:273) ~[?:1.7.0_67]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:1.7.0_67]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:283) ~[?:1.7.0_67]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:325) ~[?:1.7.0_67]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:177) ~[?:1.7.0_67]
+	at java.io.InputStreamReader.read(InputStreamReader.java:184) ~[?:1.7.0_67]
+	at java.io.BufferedReader.fill(BufferedReader.java:154) ~[?:1.7.0_67]
+	at java.io.BufferedReader.readLine(BufferedReader.java:317) ~[?:1.7.0_67]
+	at java.io.BufferedReader.readLine(BufferedReader.java:382) ~[?:1.7.0_67]
+	at lh$2.run(SourceFile:95) [minecraft_server.jar:?]
+[16:28:05] [Server thread/INFO]: Default game type: SURVIVAL
+[16:28:05] [Server thread/INFO]: Generating keypair
+[16:28:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+Java HotSpot(TM) Client VM warning: You have loaded library /tmp/libnetty-transport-native-epoll971953892329769549.so which might have disabled stack guard. The VM will try to fix the stack guard now.
+It's highly recommended that you fix the library with 'execstack -c <libfile>', or link it with '-z noexecstack'.
+[16:28:06] [Server thread/INFO]: Using default channel type
+[16:28:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:28:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:28:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:28:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:28:06] [Server thread/INFO]: Preparing level "world"
+[16:28:06] [Server thread/INFO]: Preparing start region for level 0
+[16:28:07] [Server thread/INFO]: Preparing spawn area: 1%
+[16:28:08] [Server thread/INFO]: Preparing spawn area: 29%
+[16:28:09] [Server thread/INFO]: Preparing spawn area: 57%
+[16:28:10] [Server thread/INFO]: Preparing spawn area: 85%
+[16:28:10] [Server thread/INFO]: Done (4.636s)! For help, type "help" or "?"
+[16:39:31] [Server thread/INFO]: benben[/157.122.68.240:64663] logged in with entity id 226 at (282.5042230927518, 63.5625, 568.3000000119209)
+[16:39:31] [Server thread/INFO]: benben joined the game
+[16:39:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2431ms behind, skipping 48 tick(s)
+[18:00:04] [Server thread/INFO]: benben lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:00:04] [Server thread/INFO]: benben left the game
+[21:08:57] [Server thread/INFO]: benben[/157.122.68.204:32851] logged in with entity id 43725 at (283.42144078425383, 63.5625, 568.3000000119209)
+[21:08:57] [Server thread/INFO]: benben joined the game
+[21:08:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2337ms behind, skipping 46 tick(s)
+[21:13:58] [Server thread/INFO]: benben lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:13:58] [Server thread/INFO]: benben left the game
+[22:25:55] [Server thread/INFO]: benben[/157.122.68.240:43334] logged in with entity id 48882 at (283.00163969209484, 63.5625, 568.3000000119209)
+[22:25:55] [Server thread/INFO]: benben joined the game
+[22:25:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2352ms behind, skipping 47 tick(s)
+[04:25:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3150ms behind, skipping 63 tick(s)
+[09:47:42] [Server thread/INFO]: benben lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[09:47:42] [Server thread/INFO]: benben left the game
+[09:47:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2688ms behind, skipping 53 tick(s)
+[10:50:26] [Server thread/INFO]: benben[/157.122.68.240:17967] logged in with entity id 296559 at (282.9696641279319, 63.5625, 568.3000000119209)
+[10:50:26] [Server thread/INFO]: benben joined the game
+[10:50:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2345ms behind, skipping 46 tick(s)
+[13:26:57] [Server thread/INFO]: benben lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[13:26:57] [Server thread/INFO]: benben left the game
+[16:06:56] [Server thread/INFO]: benben[/157.122.68.240:58765] logged in with entity id 375582 at (283.69999998807907, 63.5625, 568.3000000119209)
+[16:06:56] [Server thread/INFO]: benben joined the game
+[16:06:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2460ms behind, skipping 49 tick(s)
+[16:48:50] [Server thread/INFO]: benben lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[16:48:50] [Server thread/INFO]: benben left the game
+[23:25:28] [Server thread/INFO]: benben[/157.122.68.240:25465] logged in with entity id 398372 at (283.1549144947796, 63.0, 572.9340168659928)
+[23:25:28] [Server thread/INFO]: benben joined the game
+[23:25:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2365ms behind, skipping 47 tick(s)
+[02:08:35] [Server thread/INFO]: benben lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[02:08:35] [Server thread/INFO]: benben left the game
+[00:58:29] [Server thread/INFO]: benben[/157.122.68.241:7387] logged in with entity id 475316 at (283.4313911657824, 63.5625, 568.3000000119209)
+[00:58:30] [Server thread/INFO]: benben joined the game
+[00:58:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2891ms behind, skipping 57 tick(s)
+[06:17:41] [Server thread/INFO]: benben lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[06:17:41] [Server thread/INFO]: benben left the game
+[07:42:05] [Server thread/INFO]: benben[/157.122.68.241:61282] logged in with entity id 632237 at (286.9856186920356, 55.0, 572.670692591946)
+[07:42:05] [Server thread/INFO]: benben joined the game
+[07:42:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2391ms behind, skipping 47 tick(s)
+[08:06:07] [Server thread/INFO]: benben lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[08:06:07] [Server thread/INFO]: benben left the game
+[08:19:54] [Server thread/INFO]: benben[/157.122.68.241:10811] logged in with entity id 644121 at (279.7205436703543, 55.0, 575.2548439589108)
+[08:19:54] [Server thread/INFO]: benben joined the game
+[08:19:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2607ms behind, skipping 52 tick(s)
+[08:22:55] [Server thread/INFO]: benben lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[08:22:55] [Server thread/INFO]: benben left the game
+[09:07:24] [Server thread/INFO]: benben[/157.122.68.241:16953] logged in with entity id 646012 at (281.2959125038513, 63.0, 581.1497172207047)
+[09:07:24] [Server thread/INFO]: benben joined the game
+[09:07:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2330ms behind, skipping 46 tick(s)
+[10:02:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3379ms behind, skipping 67 tick(s)
+[17:05:37] [Server thread/INFO]: benben lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[17:05:37] [Server thread/INFO]: benben left the game
+[17:16:10] [Server thread/INFO]: benben[/157.122.68.241:52426] logged in with entity id 807750 at (286.9432186576173, 55.0, 573.1224951347084)
+[17:16:10] [Server thread/INFO]: benben joined the game
+[17:16:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2373ms behind, skipping 47 tick(s)
+[19:17:55] [Server thread/INFO]: benben lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[19:17:55] [Server thread/INFO]: benben left the game
+[02:00:31] [Server thread/INFO]: benben[/157.122.68.241:56479] logged in with entity id 869602 at (270.90970554013415, 55.0, 573.5486056119522)
+[02:00:31] [Server thread/INFO]: benben joined the game
+[02:00:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2388ms behind, skipping 47 tick(s)
+[02:02:41] [Server thread/INFO]: benben lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[02:02:41] [Server thread/INFO]: benben left the game
+[02:04:13] [Server thread/INFO]: benben[/157.122.68.241:50079] logged in with entity id 871094 at (279.9860550533554, 63.0, 582.4168972035703)
+[02:04:13] [Server thread/INFO]: benben joined the game
+[02:04:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2327ms behind, skipping 46 tick(s)
+[02:05:22] [Server thread/INFO]: benben lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[02:05:22] [Server thread/INFO]: benben left the game
+[02:09:16] [Server thread/INFO]: benben[/157.122.68.241:42101] logged in with entity id 871876 at (264.73721037357075, 55.0, 572.9096985115948)
+[02:09:16] [Server thread/INFO]: benben joined the game
+[02:09:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2380ms behind, skipping 47 tick(s)
+[02:12:36] [Server thread/WARN]: benben moved too quickly! 8.973877052145099,0.42355929454303975,-4.8695241868286985
+[02:14:25] [Server thread/INFO]: benben lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[02:14:25] [Server thread/INFO]: benben left the game
+[18:59:46] [Server thread/INFO]: benben[/157.122.68.241:8449] logged in with entity id 877863 at (283.69999998807907, 63.5625, 568.5433352318339)
+[18:59:46] [Server thread/INFO]: benben joined the game
+[18:59:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2431ms behind, skipping 48 tick(s)
+[18:59:58] [Server thread/WARN]: benben moved too quickly! 10.02007839812444,0.0,-1.8093919629434367
+[21:25:50] [Server thread/WARN]: benben was kicked for floating too long!
+[21:25:50] [Server thread/INFO]: benben lost connection: TextComponent{text='Flying is not enabled on this server', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:25:50] [Server thread/INFO]: benben left the game
+[21:25:51] [Server thread/WARN]: handleDisconnection() called twice
+[21:25:58] [Server thread/INFO]: benben[/157.122.68.241:40023] logged in with entity id 954239 at (281.5, 63.099998474121094, 568.5)
+[21:25:58] [Server thread/INFO]: benben joined the game
+[21:33:42] [Server thread/INFO]: benben lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:33:42] [Server thread/INFO]: benben left the game
+[22:13:30] [Server thread/INFO]: benben[/157.122.68.241:61669] logged in with entity id 961219 at (283.5589459684753, 63.5625, 568.3000000119209)
+[22:13:30] [Server thread/INFO]: benben joined the game
+[22:13:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2432ms behind, skipping 48 tick(s)
+[22:41:36] [Server thread/INFO]: benben lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[22:41:36] [Server thread/INFO]: benben left the game
+[11:30:07] [Server thread/INFO]: benben[/157.122.68.241:6066] logged in with entity id 975811 at (283.1262363088556, 63.5625, 568.3143754184252)
+[11:30:07] [Server thread/INFO]: benben joined the game
+[11:30:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3676ms behind, skipping 73 tick(s)
+[11:30:16] [Server thread/WARN]: benben moved wrongly!
+[11:30:39] [Server thread/WARN]: benben moved too quickly! -4.868577258560379,0.023088109101550458,8.814400319714764
+[11:32:09] [Server thread/INFO]: benben lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[11:32:09] [Server thread/INFO]: benben left the game
+[11:32:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2226ms behind, skipping 44 tick(s)
+[15:15:25] [Server thread/INFO]: benlgb[/125.95.121.251:29820] logged in with entity id 978785 at (245.5, 78.0, 261.5)
+[15:15:25] [Server thread/INFO]: benlgb joined the game
+[15:17:08] [Server thread/INFO]: benlgb lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:17:08] [Server thread/INFO]: benlgb left the game
+[15:18:01] [Server thread/INFO]: benlgb[/125.95.121.251:29925] logged in with entity id 981706 at (262.5270086963392, 102.0, 320.63605521875644)
+[15:18:01] [Server thread/INFO]: benlgb joined the game
+[15:18:13] [Server thread/INFO]: benlgb lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:18:13] [Server thread/INFO]: benlgb left the game
+[15:19:08] [Server thread/INFO]: benben[/125.95.121.251:29992] logged in with entity id 981950 at (278.1045365966156, 63.0, 578.6999999880791)
+[15:19:08] [Server thread/INFO]: benben joined the game
+[15:19:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2872ms behind, skipping 57 tick(s)
+[15:20:42] [Server thread/INFO]: benben lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:20:42] [Server thread/INFO]: benben left the game
+[15:23:13] [Server thread/INFO]: benben[/125.95.121.251:30095] logged in with entity id 982886 at (286.53546143736554, 63.0, 613.8730181823283)
+[15:23:13] [Server thread/INFO]: benben joined the game
+[15:23:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2607ms behind, skipping 52 tick(s)
+[15:24:05] [Server thread/INFO]: benben lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:24:05] [Server thread/INFO]: benben left the game
+[15:45:51] [Server thread/INFO]: benben[/125.95.121.251:31801] logged in with entity id 983539 at (278.90147186030964, 69.0, 568.6843958456915)
+[15:45:51] [Server thread/INFO]: benben joined the game
+[15:45:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2355ms behind, skipping 47 tick(s)
+[15:47:11] [Server thread/WARN]: benben moved too quickly! 8.834980379951219,-1.0752008901189498,-4.821146259389138
+[15:47:46] [Server thread/INFO]: Hong[/223.211.93.87:46989] logged in with entity id 985633 at (251.5, 78.0, 263.5)
+[15:47:46] [Server thread/INFO]: Hong joined the game
+[15:47:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2004ms behind, skipping 40 tick(s)
+[15:48:10] [Server thread/INFO]: <benben> 306 587
+[15:48:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2191ms behind, skipping 43 tick(s)
+[15:48:42] [Server thread/WARN]: benben moved too quickly! 10.179632544245578,-0.3693736602695097,0.6912578606549005
+[15:49:11] [Server thread/INFO]: <benben> 305 63 588
+[15:49:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2399ms behind, skipping 47 tick(s)
+[15:50:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2002ms behind, skipping 40 tick(s)
+[15:54:37] [Server thread/INFO]: Hong has just earned the achievement [Taking Inventory]
+[16:00:41] [Server thread/WARN]: Hong moved too quickly! 0.11450285562676754,-10.569599609183584,-0.03402358187236132
+[16:00:59] [Server thread/INFO]: Hong fell from a high place
+[16:01:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2122ms behind, skipping 42 tick(s)
+[16:01:57] [Server thread/INFO]: Hong lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[16:01:57] [Server thread/INFO]: Hong left the game
+[16:02:03] [Server thread/INFO]: benben lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[16:02:03] [Server thread/INFO]: benben left the game
